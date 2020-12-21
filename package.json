@@ -1,0 +1,24 @@
+{
+  "name": "is-value-empty",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elselapatha/is-value-empty.git"
+  },
+  "keywords": [
+    "isempty",
+    "is-empty",
+    "isEmpty",
+    "has-value",
+    "hasValue",
+    "empty-checker"
+  ],
+  "author": "Lakshitha Elapatha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elselapatha/is-value-empty/issues"
+  },
+  "homepage": "https://github.com/elselapatha/is-value-empty#readme"
+}
